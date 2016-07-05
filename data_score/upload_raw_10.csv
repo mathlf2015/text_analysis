@@ -1,0 +1,1981 @@
+id,score,score_factor
+0,3,good
+1,1,good
+2,4,good
+3,3,good
+4,1,good
+5,6,very good
+6,1,good
+7,8,very good
+8,4,good
+9,7,very good
+10,-1,bad
+11,4,good
+12,1,good
+13,3,good
+14,3,good
+15,16,very good
+16,3,good
+17,1,good
+18,1,good
+19,3,good
+20,3,good
+21,1,good
+22,7,very good
+23,2,good
+24,4,good
+25,1,good
+26,15,very good
+27,12,very good
+28,1,good
+29,1,good
+30,1,good
+31,1,good
+32,1,good
+33,1,good
+34,3,good
+35,1,good
+36,12,very good
+37,3,good
+38,1,good
+39,1,good
+40,4,good
+41,20,very good
+42,1,good
+43,24,very good
+44,5,very good
+45,1,good
+46,1,good
+47,10,very good
+48,6,very good
+49,1,good
+50,3,good
+51,8,very good
+52,13,very good
+53,3,good
+54,7,very good
+55,3,good
+56,1,good
+57,4,good
+58,4,good
+59,3,good
+60,16,very good
+61,3,good
+62,12,very good
+63,12,very good
+64,1,good
+65,3,good
+66,3,good
+67,1,good
+68,3,good
+69,12,very good
+70,1,good
+71,1,good
+72,3,good
+73,4,good
+74,3,good
+75,3,good
+76,26,very good
+77,16,very good
+78,5,very good
+79,1,good
+80,6,very good
+81,1,good
+82,1,good
+83,4,good
+84,1,good
+85,8,very good
+86,1,good
+87,2,good
+88,4,good
+89,1,good
+90,1,good
+91,1,good
+92,1,good
+93,4,good
+94,4,good
+95,1,good
+96,6,very good
+97,6,very good
+98,4,good
+99,1,good
+100,1,good
+101,1,good
+102,1,good
+103,1,good
+104,8,very good
+105,1,good
+106,1,good
+107,1,good
+108,1,good
+109,1,good
+110,4,good
+111,4,good
+112,18,very good
+113,4,good
+114,3,good
+115,6,very good
+116,1,good
+117,6,very good
+118,-5,bad
+119,4,good
+120,-8,very bad
+121,4,good
+122,1,good
+123,16,very good
+124,3,good
+125,1,good
+126,1,good
+127,-1,bad
+128,4,good
+129,1,good
+130,1,good
+131,7,very good
+132,3,good
+133,1,good
+134,6,very good
+135,4,good
+136,1,good
+137,16,very good
+138,36,very good
+139,3,good
+140,1,good
+141,3,good
+142,1,good
+143,4,good
+144,4,good
+145,12,very good
+146,1,good
+147,1,good
+148,4,good
+149,16,very good
+150,6,very good
+151,3,good
+152,16,very good
+153,1,good
+154,1,good
+155,4,good
+156,4,good
+157,1,good
+158,1,good
+159,16,very good
+160,-5,bad
+161,3,good
+162,-1,bad
+163,4,good
+164,4,good
+165,4,good
+166,1,good
+167,1,good
+168,3,good
+169,3,good
+170,1,good
+171,1,good
+172,1,good
+173,5,very good
+174,4,good
+175,1,good
+176,-16,very bad
+177,1,good
+178,3,good
+179,1,good
+180,-1,bad
+181,4,good
+182,4,good
+183,9,very good
+184,4,good
+185,2,good
+186,-8,very bad
+187,2,good
+188,1,good
+189,6,very good
+190,1,good
+191,-1,bad
+192,1,good
+193,4,good
+194,3,good
+195,1,good
+196,3,good
+197,5,very good
+198,5,very good
+199,-1,bad
+200,1,good
+201,15,very good
+202,15,very good
+203,-5,bad
+204,1,good
+205,-3,bad
+206,-7,very bad
+207,-7,very bad
+208,1,good
+209,1,good
+210,2,good
+211,-1,bad
+212,1,good
+213,1,good
+214,4,good
+215,-1,bad
+216,-4,bad
+217,4,good
+218,-1,bad
+219,-1,bad
+220,-1,bad
+221,1,good
+222,1,good
+223,-1,bad
+224,1,good
+225,-1,bad
+226,3,good
+227,1,good
+228,1,good
+229,3,good
+230,1,good
+231,-3,bad
+232,4,good
+233,-1,bad
+234,1,good
+235,-2,bad
+236,-1,bad
+237,-1,bad
+238,1,good
+239,3,good
+240,72,very good
+241,1,good
+242,4,good
+243,5,very good
+244,1,good
+245,1,good
+246,1,good
+247,1,good
+248,1,good
+249,1,good
+250,3,good
+251,1,good
+252,16,very good
+253,4,good
+254,4,good
+255,1,good
+256,6,very good
+257,-7,very bad
+258,4,good
+259,1,good
+260,1,good
+261,1,good
+262,-3,bad
+263,1,good
+264,-1,bad
+265,3,good
+266,1,good
+267,-1,bad
+268,1,good
+269,8,very good
+270,1,good
+271,1,good
+272,9,very good
+273,-1,bad
+274,-3,bad
+275,3,good
+276,1,good
+277,1,good
+278,1,good
+279,4,good
+280,4,good
+281,3,good
+282,-1,bad
+283,4,good
+284,1,good
+285,-3,bad
+286,4,good
+287,16,very good
+288,12,very good
+289,2,good
+290,2,good
+291,4,good
+292,1,good
+293,4,good
+294,1,good
+295,-1,bad
+296,4,good
+297,3,good
+298,-3,bad
+299,3,good
+300,3,good
+301,3,good
+302,3,good
+303,-1,bad
+304,6,very good
+305,-1,bad
+306,1,good
+307,-3,bad
+308,-3,bad
+309,4,good
+310,3,good
+311,1,good
+312,1,good
+313,-1,bad
+314,1,good
+315,5,very good
+316,1,good
+317,1,good
+318,1,good
+319,-1,bad
+320,-4,bad
+321,-4,bad
+322,-1,bad
+323,1,good
+324,4,good
+325,3,good
+326,2,good
+327,1,good
+328,4,good
+329,1,good
+330,-1,bad
+331,-1,bad
+332,1,good
+333,-1,bad
+334,1,good
+335,1,good
+336,-1,bad
+337,-1,bad
+338,1,good
+339,1,good
+340,10,very good
+341,10,very good
+342,3,good
+343,-3,bad
+344,4,good
+345,4,good
+346,4,good
+347,4,good
+348,-2,bad
+349,4,good
+350,4,good
+351,9,very good
+352,1,good
+353,-3,bad
+354,1,good
+355,1,good
+356,-1,bad
+357,1,good
+358,-1,bad
+359,1,good
+360,1,good
+361,1,good
+362,1,good
+363,-1,bad
+364,-1,bad
+365,1,good
+366,1,good
+367,-3,bad
+368,1,good
+369,4,good
+370,4,good
+371,4,good
+372,1,good
+373,1,good
+374,1,good
+375,4,good
+376,1,good
+377,3,good
+378,1,good
+379,1,good
+380,1,good
+381,2,good
+382,6,very good
+383,1,good
+384,-1,bad
+385,6,very good
+386,1,good
+387,7,very good
+388,3,good
+389,3,good
+390,4,good
+391,1,good
+392,1,good
+393,-5,bad
+394,2,good
+395,3,good
+396,-1,bad
+397,7,very good
+398,-3,bad
+399,1,good
+400,-9,very bad
+401,-3,bad
+402,3,good
+403,1,good
+404,-4,bad
+405,1,good
+406,1,good
+407,2,good
+408,4,good
+409,-3,bad
+410,1,good
+411,3,good
+412,-3,bad
+413,1,good
+414,1,good
+415,1,good
+416,1,good
+417,1,good
+418,1,good
+419,2,good
+420,6,very good
+421,4,good
+422,1,good
+423,6,very good
+424,3,good
+425,1,good
+426,1,good
+427,6,very good
+428,6,very good
+429,6,very good
+430,-1,bad
+431,-3,bad
+432,-3,bad
+433,-3,bad
+434,9,very good
+435,1,good
+436,5,very good
+437,15,very good
+438,15,very good
+439,1,good
+440,1,good
+441,-4,bad
+442,-4,bad
+443,1,good
+444,-4,bad
+445,1,good
+446,1,good
+447,-36,very bad
+448,1,good
+449,12,very good
+450,8,very good
+451,8,very good
+452,1,good
+453,3,good
+454,4,good
+455,8,very good
+456,1,good
+457,1,good
+458,1,good
+459,4,good
+460,3,good
+461,4,good
+462,1,good
+463,4,good
+464,5,very good
+465,1,good
+466,1,good
+467,1,good
+468,1,good
+469,1,good
+470,1,good
+471,1,good
+472,4,good
+473,1,good
+474,1,good
+475,1,good
+476,-6,very bad
+477,1,good
+478,-1,bad
+479,1,good
+480,1,good
+481,4,good
+482,16,very good
+483,48,very good
+484,1,good
+485,3,good
+486,-2,bad
+487,24,very good
+488,1,good
+489,-7,very bad
+490,3,good
+491,3,good
+492,1,good
+493,1,good
+494,1,good
+495,-1,bad
+496,-1,bad
+497,-1,bad
+498,1,good
+499,-1,bad
+500,3,good
+501,-12,very bad
+502,1,good
+503,1,good
+504,1,good
+505,1,good
+506,1,good
+507,-3,bad
+508,-3,bad
+509,1,good
+510,1,good
+511,1,good
+512,3,good
+513,1,good
+514,1,good
+515,3,good
+516,4,good
+517,1,good
+518,1,good
+519,1,good
+520,6,very good
+521,-3,bad
+522,-3,bad
+523,1,good
+524,3,good
+525,3,good
+526,1,good
+527,-1,bad
+528,1,good
+529,-1,bad
+530,1,good
+531,1,good
+532,1,good
+533,1,good
+534,-1,bad
+535,1,good
+536,1,good
+537,3,good
+538,1,good
+539,8,very good
+540,6,very good
+541,6,very good
+542,1,good
+543,-1,bad
+544,1,good
+545,1,good
+546,22,very good
+547,1,good
+548,1,good
+549,4,good
+550,1,good
+551,1,good
+552,6,very good
+553,6,very good
+554,6,very good
+555,1,good
+556,1,good
+557,-3,bad
+558,1,good
+559,3,good
+560,-3,bad
+561,3,good
+562,3,good
+563,1,good
+564,4,good
+565,-4,bad
+566,1,good
+567,1,good
+568,1,good
+569,1,good
+570,3,good
+571,1,good
+572,1,good
+573,-14,very bad
+574,1,good
+575,3,good
+576,3,good
+577,3,good
+578,1,good
+579,1,good
+580,1,good
+581,1,good
+582,1,good
+583,1,good
+584,4,good
+585,-1,bad
+586,1,good
+587,1,good
+588,1,good
+589,1,good
+590,1,good
+591,1,good
+592,3,good
+593,1,good
+594,48,very good
+595,-3,bad
+596,1,good
+597,2,good
+598,1,good
+599,1,good
+600,1,good
+601,1,good
+602,4,good
+603,1,good
+604,6,very good
+605,1,good
+606,4,good
+607,1,good
+608,1,good
+609,4,good
+610,1,good
+611,1,good
+612,-1,bad
+613,-1,bad
+614,3,good
+615,3,good
+616,3,good
+617,1,good
+618,1,good
+619,1,good
+620,1,good
+621,1,good
+622,1,good
+623,-1,bad
+624,2,good
+625,2,good
+626,4,good
+627,1,good
+628,1,good
+629,3,good
+630,1,good
+631,6,very good
+632,6,very good
+633,3,good
+634,4,good
+635,1,good
+636,1,good
+637,1,good
+638,4,good
+639,4,good
+640,3,good
+641,5,very good
+642,1,good
+643,1,good
+644,1,good
+645,1,good
+646,1,good
+647,1,good
+648,1,good
+649,1,good
+650,4,good
+651,-3,bad
+652,1,good
+653,-1,bad
+654,-1,bad
+655,3,good
+656,3,good
+657,1,good
+658,1,good
+659,1,good
+660,1,good
+661,2,good
+662,3,good
+663,3,good
+664,1,good
+665,1,good
+666,1,good
+667,1,good
+668,1,good
+669,-1,bad
+670,-1,bad
+671,1,good
+672,1,good
+673,-3,bad
+674,-3,bad
+675,1,good
+676,1,good
+677,1,good
+678,1,good
+679,1,good
+680,1,good
+681,-3,bad
+682,1,good
+683,1,good
+684,1,good
+685,4,good
+686,1,good
+687,8,very good
+688,-5,bad
+689,-5,bad
+690,4,good
+691,4,good
+692,-12,very bad
+693,4,good
+694,4,good
+695,4,good
+696,1,good
+697,1,good
+698,1,good
+699,1,good
+700,1,good
+701,1,good
+702,1,good
+703,1,good
+704,3,good
+705,4,good
+706,1,good
+707,-15,very bad
+708,-15,very bad
+709,1,good
+710,1,good
+711,-6,very bad
+712,-6,very bad
+713,1,good
+714,4,good
+715,2,good
+716,1,good
+717,1,good
+718,-1,bad
+719,1,good
+720,1,good
+721,6,very good
+722,5,very good
+723,5,very good
+724,4,good
+725,3,good
+726,5,very good
+727,5,very good
+728,1,good
+729,1,good
+730,1,good
+731,-1,bad
+732,1,good
+733,12,very good
+734,1,good
+735,1,good
+736,8,very good
+737,4,good
+738,-3,bad
+739,1,good
+740,1,good
+741,1,good
+742,1,good
+743,3,good
+744,3,good
+745,1,good
+746,1,good
+747,1,good
+748,4,good
+749,3,good
+750,-1,bad
+751,1,good
+752,-3,bad
+753,-3,bad
+754,5,very good
+755,1,good
+756,1,good
+757,-3,bad
+758,3,good
+759,-3,bad
+760,1,good
+761,1,good
+762,-3,bad
+763,1,good
+764,1,good
+765,4,good
+766,2,good
+767,16,very good
+768,16,very good
+769,16,very good
+770,8,very good
+771,8,very good
+772,1,good
+773,3,good
+774,4,good
+775,-3,bad
+776,1,good
+777,1,good
+778,-1,bad
+779,-1,bad
+780,1,good
+781,1,good
+782,-3,bad
+783,1,good
+784,3,good
+785,2,good
+786,2,good
+787,3,good
+788,3,good
+789,3,good
+790,1,good
+791,1,good
+792,1,good
+793,1,good
+794,14,very good
+795,14,very good
+796,-2,bad
+797,-2,bad
+798,-2,bad
+799,-1,bad
+800,1,good
+801,-3,bad
+802,1,good
+803,1,good
+804,1,good
+805,-3,bad
+806,3,good
+807,1,good
+808,2,good
+809,1,good
+810,10,very good
+811,-12,very bad
+812,-12,very bad
+813,-1,bad
+814,-3,bad
+815,1,good
+816,1,good
+817,1,good
+818,4,good
+819,4,good
+820,1,good
+821,1,good
+822,1,good
+823,1,good
+824,1,good
+825,5,very good
+826,5,very good
+827,4,good
+828,1,good
+829,4,good
+830,1,good
+831,3,good
+832,3,good
+833,4,good
+834,-3,bad
+835,3,good
+836,3,good
+837,1,good
+838,4,good
+839,2,good
+840,2,good
+841,6,very good
+842,9,very good
+843,-3,bad
+844,1,good
+845,1,good
+846,4,good
+847,1,good
+848,3,good
+849,1,good
+850,1,good
+851,1,good
+852,1,good
+853,3,good
+854,4,good
+855,4,good
+856,1,good
+857,4,good
+858,4,good
+859,2,good
+860,-20,very bad
+861,-3,bad
+862,-3,bad
+863,-1,bad
+864,-1,bad
+865,1,good
+866,-1,bad
+867,1,good
+868,1,good
+869,-2,bad
+870,3,good
+871,3,good
+872,-3,bad
+873,-3,bad
+874,5,very good
+875,4,good
+876,4,good
+877,4,good
+878,1,good
+879,1,good
+880,-1,bad
+881,4,good
+882,-1,bad
+883,1,good
+884,1,good
+885,2,good
+886,1,good
+887,-1,bad
+888,-1,bad
+889,1,good
+890,1,good
+891,1,good
+892,-1,bad
+893,-1,bad
+894,1,good
+895,1,good
+896,4,good
+897,4,good
+898,3,good
+899,1,good
+900,1,good
+901,-1,bad
+902,-4,bad
+903,-4,bad
+904,1,good
+905,12,very good
+906,1,good
+907,-3,bad
+908,1,good
+909,-3,bad
+910,-3,bad
+911,-3,bad
+912,3,good
+913,3,good
+914,1,good
+915,1,good
+916,1,good
+917,-1,bad
+918,3,good
+919,1,good
+920,-1,bad
+921,-12,very bad
+922,1,good
+923,1,good
+924,1,good
+925,1,good
+926,1,good
+927,3,good
+928,1,good
+929,4,good
+930,3,good
+931,1,good
+932,1,good
+933,1,good
+934,7,very good
+935,1,good
+936,1,good
+937,1,good
+938,3,good
+939,3,good
+940,1,good
+941,8,very good
+942,8,very good
+943,1,good
+944,-3,bad
+945,1,good
+946,1,good
+947,3,good
+948,16,very good
+949,1,good
+950,4,good
+951,-1,bad
+952,1,good
+953,1,good
+954,4,good
+955,-1,bad
+956,-1,bad
+957,-3,bad
+958,4,good
+959,1,good
+960,-1,bad
+961,1,good
+962,4,good
+963,4,good
+964,4,good
+965,1,good
+966,1,good
+967,6,very good
+968,6,very good
+969,-3,bad
+970,1,good
+971,2,good
+972,1,good
+973,6,very good
+974,1,good
+975,1,good
+976,1,good
+977,1,good
+978,1,good
+979,-3,bad
+980,3,good
+981,3,good
+982,3,good
+983,1,good
+984,1,good
+985,1,good
+986,1,good
+987,4,good
+988,-4,bad
+989,1,good
+990,1,good
+991,3,good
+992,7,very good
+993,2,good
+994,3,good
+995,4,good
+996,3,good
+997,5,very good
+998,1,good
+999,1,good
+1000,-1,bad
+1001,-3,bad
+1002,-3,bad
+1003,1,good
+1004,3,good
+1005,-1,bad
+1006,-3,bad
+1007,-3,bad
+1008,1,good
+1009,-1,bad
+1010,1,good
+1011,1,good
+1012,4,good
+1013,4,good
+1014,-3,bad
+1015,1,good
+1016,1,good
+1017,1,good
+1018,1,good
+1019,3,good
+1020,1,good
+1021,3,good
+1022,3,good
+1023,1,good
+1024,3,good
+1025,1,good
+1026,8,very good
+1027,1,good
+1028,1,good
+1029,1,good
+1030,1,good
+1031,1,good
+1032,-3,bad
+1033,1,good
+1034,4,good
+1035,1,good
+1036,1,good
+1037,1,good
+1038,-3,bad
+1039,1,good
+1040,1,good
+1041,1,good
+1042,1,good
+1043,4,good
+1044,1,good
+1045,1,good
+1046,3,good
+1047,1,good
+1048,5,very good
+1049,1,good
+1050,1,good
+1051,8,very good
+1052,1,good
+1053,5,very good
+1054,5,very good
+1055,1,good
+1056,1,good
+1057,1,good
+1058,1,good
+1059,1,good
+1060,4,good
+1061,1,good
+1062,1,good
+1063,1,good
+1064,2,good
+1065,3,good
+1066,4,good
+1067,2,good
+1068,4,good
+1069,4,good
+1070,18,very good
+1071,1,good
+1072,1,good
+1073,1,good
+1074,1,good
+1075,1,good
+1076,4,good
+1077,4,good
+1078,4,good
+1079,1,good
+1080,1,good
+1081,1,good
+1082,1,good
+1083,-1,bad
+1084,6,very good
+1085,1,good
+1086,16,very good
+1087,1,good
+1088,-1,bad
+1089,-1,bad
+1090,-1,bad
+1091,6,very good
+1092,6,very good
+1093,6,very good
+1094,1,good
+1095,-1,bad
+1096,3,good
+1097,3,good
+1098,1,good
+1099,1,good
+1100,-3,bad
+1101,1,good
+1102,1,good
+1103,6,very good
+1104,3,good
+1105,-1,bad
+1106,-1,bad
+1107,-1,bad
+1108,-1,bad
+1109,1,good
+1110,1,good
+1111,4,good
+1112,3,good
+1113,-9,very bad
+1114,1,good
+1115,-1,bad
+1116,-1,bad
+1117,-3,bad
+1118,-3,bad
+1119,4,good
+1120,8,very good
+1121,6,very good
+1122,6,very good
+1123,6,very good
+1124,6,very good
+1125,4,good
+1126,3,good
+1127,3,good
+1128,1,good
+1129,2,good
+1130,1,good
+1131,3,good
+1132,3,good
+1133,3,good
+1134,4,good
+1135,-4,bad
+1136,-4,bad
+1137,4,good
+1138,3,good
+1139,-1,bad
+1140,1,good
+1141,-3,bad
+1142,3,good
+1143,1,good
+1144,1,good
+1145,1,good
+1146,4,good
+1147,2,good
+1148,2,good
+1149,4,good
+1150,6,very good
+1151,4,good
+1152,6,very good
+1153,3,good
+1154,3,good
+1155,5,very good
+1156,1,good
+1157,9,very good
+1158,7,very good
+1159,3,good
+1160,-1,bad
+1161,1,good
+1162,-3,bad
+1163,6,very good
+1164,1,good
+1165,1,good
+1166,-3,bad
+1167,6,very good
+1168,2,good
+1169,1,good
+1170,1,good
+1171,-1,bad
+1172,-1,bad
+1173,-1,bad
+1174,24,very good
+1175,1,good
+1176,1,good
+1177,1,good
+1178,3,good
+1179,1,good
+1180,1,good
+1181,1,good
+1182,1,good
+1183,1,good
+1184,4,good
+1185,4,good
+1186,4,good
+1187,4,good
+1188,5,very good
+1189,-2,bad
+1190,-2,bad
+1191,1,good
+1192,1,good
+1193,4,good
+1194,1,good
+1195,1,good
+1196,4,good
+1197,4,good
+1198,3,good
+1199,6,very good
+1200,4,good
+1201,4,good
+1202,4,good
+1203,4,good
+1204,1,good
+1205,-4,bad
+1206,1,good
+1207,1,good
+1208,1,good
+1209,1,good
+1210,1,good
+1211,4,good
+1212,1,good
+1213,4,good
+1214,1,good
+1215,1,good
+1216,1,good
+1217,1,good
+1218,1,good
+1219,1,good
+1220,4,good
+1221,1,good
+1222,3,good
+1223,1,good
+1224,1,good
+1225,1,good
+1226,-3,bad
+1227,1,good
+1228,1,good
+1229,1,good
+1230,9,very good
+1231,2,good
+1232,-3,bad
+1233,-3,bad
+1234,-3,bad
+1235,3,good
+1236,7,very good
+1237,6,very good
+1238,1,good
+1239,2,good
+1240,2,good
+1241,1,good
+1242,16,very good
+1243,2,good
+1244,2,good
+1245,1,good
+1246,1,good
+1247,1,good
+1248,5,very good
+1249,5,very good
+1250,1,good
+1251,1,good
+1252,1,good
+1253,1,good
+1254,1,good
+1255,1,good
+1256,3,good
+1257,-5,bad
+1258,-3,bad
+1259,-3,bad
+1260,1,good
+1261,-1,bad
+1262,1,good
+1263,5,very good
+1264,5,very good
+1265,16,very good
+1266,1,good
+1267,1,good
+1268,1,good
+1269,4,good
+1270,1,good
+1271,8,very good
+1272,1,good
+1273,1,good
+1274,1,good
+1275,1,good
+1276,1,good
+1277,-3,bad
+1278,-3,bad
+1279,1,good
+1280,1,good
+1281,-3,bad
+1282,-3,bad
+1283,1,good
+1284,-1,bad
+1285,-20,very bad
+1286,4,good
+1287,4,good
+1288,3,good
+1289,3,good
+1290,3,good
+1291,3,good
+1292,-4,bad
+1293,1,good
+1294,6,very good
+1295,1,good
+1296,1,good
+1297,1,good
+1298,1,good
+1299,3,good
+1300,1,good
+1301,3,good
+1302,3,good
+1303,1,good
+1304,4,good
+1305,3,good
+1306,1,good
+1307,1,good
+1308,1,good
+1309,-5,bad
+1310,3,good
+1311,-3,bad
+1312,1,good
+1313,4,good
+1314,1,good
+1315,1,good
+1316,1,good
+1317,12,very good
+1318,1,good
+1319,1,good
+1320,1,good
+1321,3,good
+1322,4,good
+1323,-3,bad
+1324,-3,bad
+1325,-3,bad
+1326,-3,bad
+1327,-3,bad
+1328,-3,bad
+1329,4,good
+1330,4,good
+1331,-1,bad
+1332,5,very good
+1333,-7,very bad
+1334,-1,bad
+1335,1,good
+1336,1,good
+1337,-1,bad
+1338,1,good
+1339,-3,bad
+1340,1,good
+1341,-1,bad
+1342,1,good
+1343,-1,bad
+1344,-3,bad
+1345,1,good
+1346,1,good
+1347,2,good
+1348,4,good
+1349,-3,bad
+1350,1,good
+1351,-1,bad
+1352,-1,bad
+1353,-1,bad
+1354,1,good
+1355,-3,bad
+1356,5,very good
+1357,1,good
+1358,1,good
+1359,4,good
+1360,4,good
+1361,1,good
+1362,1,good
+1363,1,good
+1364,4,good
+1365,16,very good
+1366,4,good
+1367,4,good
+1368,3,good
+1369,-1,bad
+1370,-1,bad
+1371,1,good
+1372,3,good
+1373,1,good
+1374,6,very good
+1375,1,good
+1376,-1,bad
+1377,-1,bad
+1378,-3,bad
+1379,-3,bad
+1380,4,good
+1381,4,good
+1382,3,good
+1383,1,good
+1384,3,good
+1385,1,good
+1386,1,good
+1387,3,good
+1388,16,very good
+1389,1,good
+1390,1,good
+1391,1,good
+1392,-1,bad
+1393,4,good
+1394,-3,bad
+1395,-3,bad
+1396,3,good
+1397,-3,bad
+1398,-1,bad
+1399,2,good
+1400,-3,bad
+1401,6,very good
+1402,4,good
+1403,1,good
+1404,1,good
+1405,-1,bad
+1406,3,good
+1407,4,good
+1408,1,good
+1409,1,good
+1410,2,good
+1411,-3,bad
+1412,1,good
+1413,-12,very bad
+1414,1,good
+1415,1,good
+1416,1,good
+1417,1,good
+1418,1,good
+1419,4,good
+1420,-1,bad
+1421,4,good
+1422,1,good
+1423,4,good
+1424,4,good
+1425,4,good
+1426,4,good
+1427,1,good
+1428,3,good
+1429,4,good
+1430,4,good
+1431,4,good
+1432,4,good
+1433,-3,bad
+1434,-3,bad
+1435,-3,bad
+1436,-3,bad
+1437,1,good
+1438,5,very good
+1439,1,good
+1440,1,good
+1441,1,good
+1442,1,good
+1443,-1,bad
+1444,-1,bad
+1445,-3,bad
+1446,5,very good
+1447,-1,bad
+1448,1,good
+1449,-3,bad
+1450,-3,bad
+1451,-3,bad
+1452,1,good
+1453,3,good
+1454,4,good
+1455,4,good
+1456,1,good
+1457,4,good
+1458,-12,very bad
+1459,-1,bad
+1460,-1,bad
+1461,-1,bad
+1462,3,good
+1463,6,very good
+1464,1,good
+1465,1,good
+1466,6,very good
+1467,1,good
+1468,1,good
+1469,1,good
+1470,1,good
+1471,1,good
+1472,5,very good
+1473,1,good
+1474,1,good
+1475,4,good
+1476,-1,bad
+1477,2,good
+1478,8,very good
+1479,1,good
+1480,4,good
+1481,4,good
+1482,-3,bad
+1483,-3,bad
+1484,-1,bad
+1485,2,good
+1486,1,good
+1487,6,very good
+1488,6,very good
+1489,4,good
+1490,4,good
+1491,4,good
+1492,1,good
+1493,4,good
+1494,1,good
+1495,1,good
+1496,3,good
+1497,-1,bad
+1498,1,good
+1499,-3,bad
+1500,-2,bad
+1501,-20,very bad
+1502,1,good
+1503,1,good
+1504,4,good
+1505,4,good
+1506,1,good
+1507,9,very good
+1508,1,good
+1509,1,good
+1510,1,good
+1511,4,good
+1512,4,good
+1513,4,good
+1514,4,good
+1515,4,good
+1516,4,good
+1517,1,good
+1518,4,good
+1519,4,good
+1520,4,good
+1521,4,good
+1522,16,very good
+1523,1,good
+1524,1,good
+1525,1,good
+1526,-3,bad
+1527,3,good
+1528,1,good
+1529,-3,bad
+1530,-3,bad
+1531,-3,bad
+1532,16,very good
+1533,1,good
+1534,1,good
+1535,1,good
+1536,1,good
+1537,1,good
+1538,1,good
+1539,1,good
+1540,2,good
+1541,8,very good
+1542,8,very good
+1543,8,very good
+1544,4,good
+1545,4,good
+1546,-4,bad
+1547,1,good
+1548,4,good
+1549,1,good
+1550,1,good
+1551,3,good
+1552,3,good
+1553,3,good
+1554,1,good
+1555,1,good
+1556,1,good
+1557,1,good
+1558,4,good
+1559,1,good
+1560,1,good
+1561,4,good
+1562,1,good
+1563,3,good
+1564,6,very good
+1565,6,very good
+1566,-1,bad
+1567,-1,bad
+1568,1,good
+1569,1,good
+1570,1,good
+1571,1,good
+1572,1,good
+1573,1,good
+1574,3,good
+1575,1,good
+1576,-3,bad
+1577,1,good
+1578,-12,very bad
+1579,1,good
+1580,1,good
+1581,1,good
+1582,-1,bad
+1583,-1,bad
+1584,-1,bad
+1585,1,good
+1586,1,good
+1587,-3,bad
+1588,1,good
+1589,1,good
+1590,1,good
+1591,3,good
+1592,1,good
+1593,1,good
+1594,1,good
+1595,1,good
+1596,1,good
+1597,1,good
+1598,3,good
+1599,-3,bad
+1600,4,good
+1601,3,good
+1602,3,good
+1603,1,good
+1604,4,good
+1605,1,good
+1606,1,good
+1607,4,good
+1608,4,good
+1609,3,good
+1610,1,good
+1611,4,good
+1612,-3,bad
+1613,3,good
+1614,1,good
+1615,5,very good
+1616,5,very good
+1617,4,good
+1618,1,good
+1619,1,good
+1620,1,good
+1621,4,good
+1622,1,good
+1623,1,good
+1624,1,good
+1625,1,good
+1626,1,good
+1627,1,good
+1628,1,good
+1629,-1,bad
+1630,5,very good
+1631,5,very good
+1632,5,very good
+1633,5,very good
+1634,1,good
+1635,1,good
+1636,6,very good
+1637,6,very good
+1638,6,very good
+1639,4,good
+1640,1,good
+1641,18,very good
+1642,16,very good
+1643,6,very good
+1644,-3,bad
+1645,9,very good
+1646,9,very good
+1647,5,very good
+1648,5,very good
+1649,5,very good
+1650,5,very good
+1651,1,good
+1652,-1,bad
+1653,1,good
+1654,1,good
+1655,1,good
+1656,1,good
+1657,24,very good
+1658,4,good
+1659,16,very good
+1660,4,good
+1661,4,good
+1662,11,very good
+1663,1,good
+1664,2,good
+1665,6,very good
+1666,5,very good
+1667,5,very good
+1668,1,good
+1669,5,very good
+1670,1,good
+1671,1,good
+1672,1,good
+1673,1,good
+1674,-1,bad
+1675,-1,bad
+1676,-1,bad
+1677,-1,bad
+1678,1,good
+1679,1,good
+1680,6,very good
+1681,5,very good
+1682,5,very good
+1683,1,good
+1684,1,good
+1685,3,good
+1686,3,good
+1687,3,good
+1688,1,good
+1689,1,good
+1690,4,good
+1691,4,good
+1692,3,good
+1693,4,good
+1694,6,very good
+1695,-1,bad
+1696,1,good
+1697,-1,bad
+1698,4,good
+1699,1,good
+1700,1,good
+1701,-3,bad
+1702,-1,bad
+1703,1,good
+1704,1,good
+1705,1,good
+1706,1,good
+1707,3,good
+1708,1,good
+1709,1,good
+1710,1,good
+1711,1,good
+1712,16,very good
+1713,1,good
+1714,-3,bad
+1715,-1,bad
+1716,-1,bad
+1717,-1,bad
+1718,3,good
+1719,3,good
+1720,3,good
+1721,1,good
+1722,1,good
+1723,4,good
+1724,3,good
+1725,3,good
+1726,5,very good
+1727,4,good
+1728,-3,bad
+1729,4,good
+1730,1,good
+1731,3,good
+1732,3,good
+1733,1,good
+1734,4,good
+1735,3,good
+1736,3,good
+1737,3,good
+1738,3,good
+1739,3,good
+1740,3,good
+1741,1,good
+1742,1,good
+1743,1,good
+1744,-3,bad
+1745,-3,bad
+1746,1,good
+1747,3,good
+1748,1,good
+1749,-1,bad
+1750,4,good
+1751,4,good
+1752,1,good
+1753,1,good
+1754,4,good
+1755,6,very good
+1756,1,good
+1757,1,good
+1758,1,good
+1759,1,good
+1760,1,good
+1761,3,good
+1762,2,good
+1763,4,good
+1764,1,good
+1765,-4,bad
+1766,-4,bad
+1767,1,good
+1768,3,good
+1769,4,good
+1770,4,good
+1771,5,very good
+1772,5,very good
+1773,5,very good
+1774,1,good
+1775,1,good
+1776,4,good
+1777,6,very good
+1778,1,good
+1779,1,good
+1780,1,good
+1781,1,good
+1782,1,good
+1783,1,good
+1784,-3,bad
+1785,1,good
+1786,1,good
+1787,-3,bad
+1788,1,good
+1789,1,good
+1790,6,very good
+1791,-3,bad
+1792,1,good
+1793,1,good
+1794,6,very good
+1795,10,very good
+1796,4,good
+1797,1,good
+1798,1,good
+1799,1,good
+1800,1,good
+1801,1,good
+1802,3,good
+1803,-1,bad
+1804,-5,bad
+1805,1,good
+1806,-1,bad
+1807,-1,bad
+1808,4,good
+1809,1,good
+1810,1,good
+1811,1,good
+1812,-3,bad
+1813,-3,bad
+1814,-3,bad
+1815,1,good
+1816,1,good
+1817,5,very good
+1818,-1,bad
+1819,4,good
+1820,4,good
+1821,3,good
+1822,4,good
+1823,2,good
+1824,4,good
+1825,4,good
+1826,-1,bad
+1827,1,good
+1828,1,good
+1829,1,good
+1830,1,good
+1831,1,good
+1832,4,good
+1833,4,good
+1834,6,very good
+1835,6,very good
+1836,-3,bad
+1837,3,good
+1838,4,good
+1839,-1,bad
+1840,1,good
+1841,4,good
+1842,1,good
+1843,3,good
+1844,4,good
+1845,-3,bad
+1846,1,good
+1847,1,good
+1848,1,good
+1849,1,good
+1850,1,good
+1851,1,good
+1852,4,good
+1853,4,good
+1854,1,good
+1855,4,good
+1856,1,good
+1857,3,good
+1858,3,good
+1859,3,good
+1860,3,good
+1861,2,good
+1862,1,good
+1863,-3,bad
+1864,-3,bad
+1865,-3,bad
+1866,-3,bad
+1867,-3,bad
+1868,1,good
+1869,6,very good
+1870,4,good
+1871,4,good
+1872,1,good
+1873,1,good
+1874,1,good
+1875,-12,very bad
+1876,3,good
+1877,2,good
+1878,3,good
+1879,3,good
+1880,3,good
+1881,3,good
+1882,1,good
+1883,1,good
+1884,1,good
+1885,1,good
+1886,4,good
+1887,4,good
+1888,4,good
+1889,1,good
+1890,4,good
+1891,-1,bad
+1892,-1,bad
+1893,-1,bad
+1894,-1,bad
+1895,-1,bad
+1896,3,good
+1897,1,good
+1898,1,good
+1899,3,good
+1900,1,good
+1901,-4,bad
+1902,1,good
+1903,-3,bad
+1904,-3,bad
+1905,6,very good
+1906,1,good
+1907,2,good
+1908,4,good
+1909,4,good
+1910,6,very good
+1911,3,good
+1912,-1,bad
+1913,1,good
+1914,1,good
+1915,16,very good
+1916,1,good
+1917,1,good
+1918,1,good
+1919,1,good
+1920,1,good
+1921,-1,bad
+1922,2,good
+1923,2,good
+1924,1,good
+1925,1,good
+1926,1,good
+1927,4,good
+1928,4,good
+1929,10,very good
+1930,10,very good
+1931,1,good
+1932,6,very good
+1933,-1,bad
+1934,-1,bad
+1935,1,good
+1936,1,good
+1937,-3,bad
+1938,6,very good
+1939,1,good
+1940,1,good
+1941,1,good
+1942,18,very good
+1943,-3,bad
+1944,5,very good
+1945,5,very good
+1946,1,good
+1947,1,good
+1948,4,good
+1949,6,very good
+1950,-2,bad
+1951,1,good
+1952,-3,bad
+1953,1,good
+1954,3,good
+1955,1,good
+1956,4,good
+1957,2,good
+1958,1,good
+1959,-1,bad
+1960,1,good
+1961,-1,bad
+1962,1,good
+1963,1,good
+1964,3,good
+1965,1,good
+1966,1,good
+1967,1,good
+1968,-3,bad
+1969,1,good
+1970,-3,bad
+1971,1,good
+1972,-3,bad
+1973,1,good
+1974,16,very good
+1975,16,very good
+1976,4,good
+1977,1,good
+1978,1,good
+1979,4,good
