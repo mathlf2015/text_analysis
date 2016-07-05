@@ -1,5 +1,5 @@
 # text_analysis
-analysis of the comments of top10 shampoo
+analysis of the comments of top10 shampoo of tianmao
 
 1. code含商品评论的爬取，情感分析的代码，及情感词典
 2. raw_data 爬取的原始数据
